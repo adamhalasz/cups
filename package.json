@@ -1,0 +1,6 @@
+{
+	"name": "cups",
+	"version": "0.1.0",
+	"description": "An Algorithm & Data Structure Library for Node.js",
+	"tags": ["algorithm", "quicksort", "insertion", "mergesort", "heapsort", "hashtable"]
+}
